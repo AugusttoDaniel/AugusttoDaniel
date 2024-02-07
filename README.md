@@ -2,7 +2,7 @@
 
 Meu nome é Daniel e tenho 22 anos. 
 
-[![Linkedin Badge](https://img.shields.io/badge/-Daniel Augusto-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/danielaugustto/)
+[![Linkedin Badge](https://img.shields.io/badge/-Daniel_Augusto-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/danielaugustto/)
 [![Gmail Badge](https://img.shields.io/badge/-Danielsje7133@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:Danielsje7133@gmail.com)](mailto:Danielsje7133@gmail.com)
 
 #### Front-End:<br/>
