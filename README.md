@@ -1,11 +1,14 @@
 ## Opa, tudo bom? Seja bem vindo 👋
 
-Meu nome é Daniel e tenho 22 anos. 
+## Sobre Mim:
+- 🎓 Estudante de Bacharelado em Sistemas de Informação pelo IFMG CAMPUS SÃO JOÃO EVANGELISTA.
+- 🎓 Formado em Técnico em Manutenção e Suporte em Informática pelo IFMG CAMPUS SÃO JOÃO EVANGELISTA.
+
 
 [![Linkedin Badge](https://img.shields.io/badge/-Daniel_Augusto-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/danielaugustto/)
 [![Gmail Badge](https://img.shields.io/badge/-Danielsje7133@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:Danielsje7133@gmail.com)](mailto:Danielsje7133@gmail.com)
 
-#### Front-End:<br/>
+#### 🖥️ Front-End:<br/>
 ![Html](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![Css](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
@@ -13,17 +16,17 @@ Meu nome é Daniel e tenho 22 anos.
 ![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 
     
-#### Back-End:<br/>
+#### 🗄️ Back-End:<br/>
 ![Node](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
     
     
     
-#### Banco de Dados:<br/>
+#### 💾 Banco de Dados:<br/>
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
     
     
-#### Outros:<br/>
+#### 🛠️ Ferramentas:<br/>
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
 
