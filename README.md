@@ -2,7 +2,7 @@
 
 Meu nome é Daniel e tenho 22 anos. 
 
-[![Linkedin Badge](https://img.shields.io/badge/-Daneil-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/danielaugustto/)
+[![Linkedin Badge](https://img.shields.io/badge/-Daniel Augusto-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/danielaugustto/)
 [![Gmail Badge](https://img.shields.io/badge/-Danielsje7133@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:Danielsje7133@gmail.com)](mailto:Danielsje7133@gmail.com)
 
 #### Front-End:<br/>
@@ -29,6 +29,6 @@ Meu nome é Daniel e tenho 22 anos.
 
 <div>
 <a href="https://github.com/AugusttoDaniel">
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?AugusttoDaniel-aqui&layout=compact&langs_count=7&theme=dracula"/>
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?AugusttoDaniel&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AugusttoDaniel&layout=compact&langs_count=7&theme=dracula"/>
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=AugusttoDaniel&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
