@@ -8,7 +8,7 @@
 [![Linkedin Badge](https://img.shields.io/badge/-Daniel_Augusto-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/danielaugustto/)
 [![Gmail Badge](https://img.shields.io/badge/-Danielsje7133@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:Danielsje7133@gmail.com)](mailto:Danielsje7133@gmail.com)
 
-##Competências 
+## Competências 
 
 #### 🖥️ Front-End:<br/>
 ![Html](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
