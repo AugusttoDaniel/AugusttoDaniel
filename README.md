@@ -4,7 +4,7 @@
 - 🎓 Estudante de Bacharelado em Sistemas de Informação pelo IFMG CAMPUS SÃO JOÃO EVANGELISTA.
 - 🎓 Formado em Técnico em Manutenção e Suporte em Informática pelo IFMG CAMPUS SÃO JOÃO EVANGELISTA.
 
-
+## Contatos
 [![Linkedin Badge](https://img.shields.io/badge/-Daniel_Augusto-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/danielaugustto/)
 [![Gmail Badge](https://img.shields.io/badge/-Danielsje7133@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:Danielsje7133@gmail.com)](mailto:Danielsje7133@gmail.com)
 
